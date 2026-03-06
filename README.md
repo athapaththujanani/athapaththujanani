@@ -1,16 +1,15 @@
-## Hi there 👋
+# Janani Tharushika
 
-<!--
-**athapaththujanani/athapaththujanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+Hello! My name is **Janani Tharushika**, a 23-year-old student specializing in **Mobile Web Development**. I am passionate about building modern, responsive web and mobile applications and continuously improving my technical skills.
 
-Here are some ideas to get you started:
+## Details
+- **Name:** Janani Tharushika  
+- **Age:** 23  
+- **Major:** Mobile Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+To develop innovative and user-friendly mobile and web solutions while growing as a professional developer.
+
+---
+*Thank you for visiting my profile.*
